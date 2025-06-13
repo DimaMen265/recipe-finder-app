@@ -29,8 +29,6 @@ Users can search for recipes using filters and view detailed information for eac
 | ---------------------------------- | ----------------------------------- | ----------------------------------- |
 | ![](public/screenshots/search.png) | ![](public/screenshots/results.png) | ![](public/screenshots/details.png) |
 
-> ℹ️ Replace `public/screenshots/...` with your actual screenshots.
-
 ---
 
 ## 🧑‍💻 Getting Started
